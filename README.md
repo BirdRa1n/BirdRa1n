@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**BirdRa1n/BirdRa1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Olá, meu nome é Dário e  sou estudante do Instituto Federal do Piauí
 
-Here are some ideas to get you started:
+👩‍💻 Desenvolvento aplicação na [ArduinoHomeControlApp](https://github.com/birdra1n/ArduinoHomeControlApp/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 Estou aprendendo constantemente
+
+
+📫  [Telegram Chanel](https://t.me/BirdRa1nChannel)
+
+
+
+## 🛠 Habilidades
+Javascript, Python, PHP, MYSQL, C++...
+
