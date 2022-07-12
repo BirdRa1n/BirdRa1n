@@ -10,10 +10,10 @@ Olá, meu nome é Dário e  sou estudante do Instituto Federal do Piauí
 
 📫  [Telegram Chanel](https://t.me/BirdRa1nChannel)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=birdra1n&show_icons=true&theme=radical)
+
 <details>
   <summary>🛠 Minhas estátisticas no Github</summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birdra1n&bg_color=141414&text_color=f8f8f2&title_color=f8f8f2&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birdra1n&layout=compact&theme=radical"/>
     <img src="https://github-readme-stats.vercel.app/api?username=birdra1n&show_icons=true&theme=radical" />
 </details>
 
