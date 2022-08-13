@@ -9,7 +9,7 @@ Olá, meu nome é Dário e  sou estudante do Instituto Federal do Piauí
 
 
 📫  [Telegram Channel]([https://t.me/BirdRa1nChannel)
-[teste](http://birdra1n.rf.gd/)
+[teste](https://birdra1n.x10.bz/)
 
 
 <details>
