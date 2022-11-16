@@ -8,8 +8,9 @@ Olá, meu nome é Dário e  sou estudante do Instituto Federal do Piauí
 ### 🛠 Minhas estátisticas no Github
 ![](https://github-readme-stats.vercel.app/api?username=birdra1n&theme=react&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=birdra1n&theme=react&hide_border=true)
+<center>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=birdra1n&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+</center>
 
 
 
