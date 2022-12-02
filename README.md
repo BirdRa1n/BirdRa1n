@@ -1,14 +1,26 @@
+<img src="https://images2.imgbox.com/bf/61/jhyKvIs2_o.gif" width="100px" alt="bash" align="right" />
 
-## 🚀 Sobre mim
-Olá, meu nome é Dário e  sou estudante do Instituto Federal do Piauí
+<h2>Hi! I’m Dário Jr</h2>
 
-🧠 Estou aprendendo constantemente
-📫  [Telegram Channel](https://t.me/BirdRa1nChannel)
+<p>
+ A young programmer who loves to learn new things. I am passionate about technology and programming!
+</p>
 
-### 🛠 Minhas estátisticas no Github
+<details>
+  <summary>More about me</summary>
+  <ul>
+    <li>🎓 Computer Technician by IFPI</li>
+    <li>📚 Studying Dev. Web e Mobile | IoT</li>
+  </ul>
+</details>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=birdra1n&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=birdra1n&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<details>
+  <summary>My Stats on Github</summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birdra1n&bg_color=141414&text_color=fff&title_color=fff" alt="Techs utilizadas nos projetos" />
+    <img src="https://github-readme-stats.vercel.app/api?username=birdra1n&show_icons=true&include_all_commits=true&bg_color=141414&text_color=fff&title_color=fff" alt="Estátisticas Gerais" />
+  </p>
+</details>
 
-
+<hr/>
 
