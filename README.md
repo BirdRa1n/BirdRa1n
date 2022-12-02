@@ -10,7 +10,7 @@
   <summary>More about me</summary>
   <ul>
     <li>🎓 Computer Technician by IFPI</li>
-    <li>📚 Studying Dev. Web e Mobile | IoT</li>
+    <li>📚 Studying Dev. Web and Mobile | IoT</li>
   </ul>
 </details>
 
