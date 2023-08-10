@@ -4,7 +4,7 @@
 
 A young programmer who loves to learn new things. I am passionate about technology and programming!
 
-<details>
+<details open>
   <summary>More about me</summary>
   <ul>
     <li>🎓 Computer Technician by IFPI</li>
