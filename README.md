@@ -1,4 +1,4 @@
-<img src="https://images2.imgbox.com/bf/61/jhyKvIs2_o.gif" width="100px" alt="bash" align="right" />
+<img src="https://sdaiedyprqaiscilvchp.supabase.co/storage/v1/object/public/apps/dcsa6sq-478751f5-e56c-417a-a4d9-223438b3a252.gif" width="100px" alt="bash" align="right" />
 
 ## Hi! I’m Dário Jr
 
