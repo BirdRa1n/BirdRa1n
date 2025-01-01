@@ -32,4 +32,5 @@ A young programmer who loves to learn new things. I'm passionate about technolog
   <img src="https://img.shields.io/badge/-C%2B%2B-FFD43B?style=for-the-badge&logo=C%2B%2B&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-php-FFD43B?style=for-the-badge&logo=php&logoColor=blue"/>
   <img src="https://img.shields.io/badge/-FFD43B?style=for-the-badge&logo=c&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/-Java-FFD43B?style=for-the-badge&logo=java&logoColor=blue"/>
 </div>
