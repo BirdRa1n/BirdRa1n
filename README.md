@@ -7,8 +7,8 @@ A young programmer who loves to learn new things. I'm passionate about technolog
 <details open>
   <summary>More about me</summary>
   <ul>
-    <li>Student of Systems Analysis and Development</li>
-    <li>Studying Web and Mobile Development | IoT</li>
+    <li>🎓 Student of Systems Analysis and Development</li>
+    <li>📚 Studying Web and Mobile Development | IoT</li>
   </ul>
 </details>
 
