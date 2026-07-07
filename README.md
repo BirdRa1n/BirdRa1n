@@ -1,24 +1,24 @@
 <img src="https://sdaiedyprqaiscilvchp.supabase.co/storage/v1/object/public/apps/dcsa6sq-478751f5-e56c-417a-a4d9-223438b3a252.gif" width="100px" alt="bash" align="right" />
 
-# Olá! Eu sou o Dario Jr 👋
+# Dario Jr
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Desenvolvedor+Web+%26+Mobile;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Desenvolvedor+Web+%26+Mobile;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Especializando-me+em+TypeScript+e+React+Native)](https://git.io/typing-svg)
 
-Programador jovem e curioso, apaixonado por tecnologia e movido pela vontade constante de aprender e construir coisas novas.
-
----
-
-## 🚀 Sobre mim
-
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 📚 Focado em **Desenvolvimento Web e Mobile** e **IoT**
-- 💡 Explorando novas stacks e boas práticas de engenharia de software
-- 🌱 Atualmente aprofundando conhecimentos em **TypeScript** e **React Native**
-- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN) • [E-mail](mailto:seuemail@exemplo.com)
+Desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas, atuando no desenvolvimento de aplicações web e mobile, com interesse em soluções de IoT.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Sobre mim
+
+- Graduado em **Análise e Desenvolvimento de Sistemas**
+- Atuação em **Desenvolvimento Web e Mobile**, com projetos envolvendo **IoT**
+- Especialização contínua em **TypeScript** e **React Native**
+- Comprometido com boas práticas de engenharia de software, código limpo e arquitetura escalável
+- Contato: [LinkedIn](https://linkedin.com/in/ronisdario) 
+
+---
+
+## Tecnologias & Ferramentas
 
 ### Front-end
 <div>
@@ -52,7 +52,7 @@ Programador jovem e curioso, apaixonado por tecnologia e movido pela vontade con
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas no GitHub
 
 <div align="center">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=BirdRa1n&show_icons=true&include_all_commits=true&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&icon_color=61DAFB&hide_border=true" alt="Estatísticas gerais" />
@@ -65,7 +65,7 @@ Programador jovem e curioso, apaixonado por tecnologia e movido pela vontade con
 
 ---
 
-## 🐍 Contribuições
+## Atividade de Contribuições
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BirdRa1n/BirdRa1n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -78,5 +78,5 @@ Programador jovem e curioso, apaixonado por tecnologia e movido pela vontade con
 </div>
 
 <div align="center">
-  <sub>💙 Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios.</sub>
+  <sub>Sinta-se à vontade para explorar meus repositórios e entrar em contato para oportunidades e colaborações.</sub>
 </div>
