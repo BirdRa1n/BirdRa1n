@@ -1,82 +1,121 @@
-<img src="https://sdaiedyprqaiscilvchp.supabase.co/storage/v1/object/public/apps/dcsa6sq-478751f5-e56c-417a-a4d9-223438b3a252.gif" width="100px" alt="bash" align="right" />
+<a href="https://birdra1n.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
+    <img alt="Dário Jr — Desenvolvedor Full Stack" src="assets/header-dark.svg" width="100%" />
+  </picture>
+</a>
 
-# Dario Jr
+<p align="center">
+  <a href="https://birdra1n.com"><img src="https://img.shields.io/badge/Portfólio-birdra1n.com-FACC15?style=for-the-badge&labelColor=0B0A00" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/ronisdario"><img src="https://img.shields.io/badge/LinkedIn-ronisdario-FACC15?style=for-the-badge&logo=linkedin&logoColor=FACC15&labelColor=0B0A00" alt="LinkedIn" /></a>
+  <a href="mailto:ronisdario@icloud.com"><img src="https://img.shields.io/badge/E--mail-ronisdario@icloud.com-FACC15?style=for-the-badge&logo=icloud&logoColor=FACC15&labelColor=0B0A00" alt="E-mail" /></a>
+  <a href="https://cdlfkccqwjljkeeziiri.supabase.co/storage/v1/object/public/resume/curriculo.pdf?download=Dario-Jr-CV.pdf"><img src="https://img.shields.io/badge/Currículo-PDF-FACC15?style=for-the-badge&logo=readdotcv&logoColor=FACC15&labelColor=0B0A00" alt="Currículo" /></a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&width=435&lines=Desenvolvedor+Web+%26+Mobile;An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Especializando-me+em+TypeScript+e+React+Native)](https://git.io/typing-svg)
+### 👋 Olá, eu sou o Dário
 
-Desenvolvedor de software com formação em Análise e Desenvolvimento de Sistemas, atuando no desenvolvimento de aplicações web e mobile, com interesse em soluções de IoT.
+Sou **desenvolvedor full stack** há mais de 4 anos. Construo interfaces e aplicações escaláveis em **TypeScript, React, Next.js e React Native**, e trabalho no back-end com **Node.js, Go, PHP e Laravel**.
 
----
+Atuo de ponta a ponta: do design de componentes à operação em produção na **AWS**, com CI/CD, observabilidade e testes automatizados. Gosto de software estável, rápido e bem testado — e de produtos que as pessoas realmente usam.
 
-## Sobre mim
-
-- Graduado em **Análise e Desenvolvimento de Sistemas**
-- Atuação em **Desenvolvimento Web e Mobile**, com projetos envolvendo **IoT**
-- Especialização contínua em **TypeScript** e **React Native**
-- Comprometido com boas práticas de engenharia de software, código limpo e arquitetura escalável
-- Contato: [LinkedIn](https://linkedin.com/in/ronisdario) 
-
----
-
-## Tecnologias & Ferramentas
-
-### Front-end
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
-
-### Mobile
-<div>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
-
-### Back-end & Linguagens
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-</div>
-
-### Ferramentas
-<div>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
+- 🔭 Atualmente: **Desenvolvedor — Consultoria** na A G Nepomucena (PHP/Laravel, AWS, Next.js)
+- 📱 No tempo livre: apps nativos para iPhone, iPad e Mac em **Swift**, como o [AstraSSH](https://birdra1n.com/projects/astrassh)
+- ✍️ Escrevo sobre o que construo no [blog](https://birdra1n.com/blog)
+- 📍 São Paulo, SP · trabalho remoto · 🇧🇷 português nativo
 
 ---
 
-## Estatísticas no GitHub
+### 🧰 Stack
 
-<div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=BirdRa1n&show_icons=true&include_all_commits=true&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&icon_color=61DAFB&hide_border=true" alt="Estatísticas gerais" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BirdRa1n&layout=compact&theme=github_dark&bg_color=141414&text_color=fff&title_color=61DAFB&hide_border=true" alt="Linguagens mais usadas" />
-</div>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,go,php,swift,py&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,go,php,swift,py&theme=dark" alt="Linguagens" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,electron,tauri,tailwind,sass&theme=light" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,electron,tauri,tailwind,sass&theme=dark" alt="Front-end e mobile" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,laravel,aws,supabase,postgres,mongodb,firebase&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,aws,supabase,postgres,mongodb,firebase&theme=dark" alt="Back-end, cloud e dados" />
+  </picture>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,docker,jest,linux,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,githubactions,docker,jest,linux,figma&theme=dark" alt="Ferramentas" />
+  </picture>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BirdRa1n&theme=dark&background=141414&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&hide_border=true" alt="Sequência de contribuições" />
-</div>
+<sub>Linguagens · Front-end & mobile (incluindo React Native e Expo) · Back-end, cloud & dados · Ferramentas & práticas</sub>
 
 ---
 
-## Atividade de Contribuições
+### 💼 Experiência
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BirdRa1n/BirdRa1n/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+| Período | Cargo | Empresa |
+|---|---|---|
+| **jul/2026 — atual** | Desenvolvedor — Consultoria | A G Nepomucena LTDA |
+| nov/2025 — jun/2026 | Desenvolvedor Full Stack | Impacta Ltda |
+| abr/2024 — mai/2025 | Desenvolvedor Pleno | RR Soluções e Logística |
+| jan/2022 — out/2025 | Desenvolvedor Full Stack Pleno | Soma Service Ltda |
+
+<sub>Todas remotas. Detalhes na [linha do tempo do portfólio](https://birdra1n.com/#experience).</sub>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BirdRa1n&color=61DAFB&style=for-the-badge&label=Visitas+ao+perfil" alt="Contador de visitas" />
-</div>
+### 🚀 Projetos em destaque
 
-<div align="center">
-  <sub>Sinta-se à vontade para explorar meus repositórios e entrar em contato para oportunidades e colaborações.</sub>
-</div>
+| | Projeto | O que é | Stack |
+|:-:|---|---|---|
+| 🔐 | **[AstraSSH](https://birdra1n.com/projects/astrassh)** | App nativo para iPhone, iPad e Mac que gerencia servidores SSH e clusters Proxmox VE | Swift · SwiftUI · SwiftNIO SSH |
+| 🖼️ | **[Cartazify](https://cartazify.birdra1n.com)** | SaaS de cartazes promocionais com editor em canvas e exportação para PDF/DOCX | Next.js · Konva · Supabase |
+| 📦 | **[StockEasy](https://stockeasy.birdra1n.com)** | Gestão de estoque para varejo com leitura de código de barras, integração com PDV e NF-e | React Native · Expo · Next.js |
+| 📺 | **[Screenlet](https://screenlet.birdra1n.com)** | Studio de anúncios em vídeo para Smart TVs + player de sinalização offline-first | Electron · Remotion · Go |
+| 🏠 | **[EasyControl](https://easycontrol.birdra1n.com)** | Plataforma IoT multi-tenant com telemetria em tempo real e controle infravermelho | ESP8266 · MQTT · Tauri · Supabase |
+| 🧵 | **[AtelieSmart](https://ateliesmart.birdra1n.com)** | App desktop multiplataforma para gestão de clientes, pedidos e produção | Tauri · Next.js |
+| 🛡️ | **[WG Manager](https://github.com/BirdRa1n/WG-Manager)** | Painel web para gerenciar WireGuard, Proxmox e Cloudflare | React · FastAPI |
+
+---
+
+### ✍️ Do blog
+
+- [Dois crashes, duas lições: depurando o AstraSSH antes do lançamento](https://birdra1n.com/blog/astrassh-dois-crashes-duas-licoes)
+- [Sincronizando com o iCloud sem confiar no relógio: merge em três vias](https://birdra1n.com/blog/astrassh-sincronizacao-icloud-merge-em-tres-vias)
+- [Segurança primeiro: como o AstraSSH guarda senhas, chaves e decide em quem confiar](https://birdra1n.com/blog/astrassh-seguranca-senhas-chaves-e-confianca)
+- [Supabase: selects eficientes e joins com chaves estrangeiras](https://birdra1n.com/blog/supabase-selects-eficientes-e-joins-com-chaves-estrangeiras)
+
+<sub>Os artigos também estão disponíveis em inglês e espanhol — o site traduz conforme o idioma do seu sistema.</sub>
+
+---
+
+### 📊 No GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=BirdRa1n&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&text_color=1D1D1F&title_color=A16207&icon_color=CA8A04" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=BirdRa1n&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=FACC15&icon_color=FACC15" alt="Estatísticas do GitHub" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=BirdRa1n&layout=compact&hide_border=true&bg_color=FFFFFF&text_color=1D1D1F&title_color=A16207" />
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BirdRa1n&layout=compact&hide_border=true&bg_color=0D1117&text_color=E6EDF3&title_color=FACC15" alt="Linguagens mais usadas" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BirdRa1n/BirdRa1n/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BirdRa1n/BirdRa1n/output/snake-light.svg" />
+    <img alt="Animação do gráfico de contribuições" src="https://raw.githubusercontent.com/BirdRa1n/BirdRa1n/output/snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <b>Aberto a novas oportunidades como desenvolvedor full stack, front-end ou mobile.</b><br />
+  <sub>Vamos conversar → <a href="mailto:ronisdario@icloud.com">ronisdario@icloud.com</a> · <a href="https://www.linkedin.com/in/ronisdario">LinkedIn</a> · <a href="https://birdra1n.com/contact">birdra1n.com/contact</a></sub>
+</p>
