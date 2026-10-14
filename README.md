@@ -28,29 +28,19 @@ Atuo de ponta a ponta: do design de componentes à operação em produção na *
 
 ### 🧰 Stack
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,go,php,swift,py&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,go,php,swift,py&theme=dark" alt="Linguagens" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,vue,electron,tauri,tailwind,sass&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,electron,tauri,tailwind,sass&theme=dark" alt="Front-end e mobile" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,laravel,aws,supabase,postgres,mongodb,firebase&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,aws,supabase,postgres,mongodb,firebase&theme=dark" alt="Back-end, cloud e dados" />
-  </picture>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,githubactions,docker,jest,linux,figma&theme=light" />
-    <img src="https://skillicons.dev/icons?i=git,githubactions,docker,jest,linux,figma&theme=dark" alt="Ferramentas" />
-  </picture>
-</p>
+**Linguagens**<br />
+<img src="https://skillicons.dev/icons?i=ts,js,go,php,swift,py&perline=8" alt="TypeScript, JavaScript, Go, PHP, Swift, Python" />
 
-<sub>Linguagens · Front-end & mobile (incluindo React Native e Expo) · Back-end, cloud & dados · Ferramentas & práticas</sub>
+**Front-end & mobile**<br />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,electron,tauri,tailwind,sass,html,css&perline=9" alt="React, Next.js, Vue, Electron, Tauri, Tailwind CSS, SCSS, HTML, CSS" />
+
+**Back-end, cloud & dados**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,aws,supabase,postgres,mongodb,firebase&perline=8" alt="Node.js, Express, Laravel, AWS, Supabase, PostgreSQL, MongoDB, Firebase" />
+
+**Ferramentas & práticas**<br />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,jest,linux,vscode,figma&perline=8" alt="Git, GitHub, GitHub Actions, Docker, Jest, Linux, VS Code, Figma" />
+
+<sub>Também: React Native, Expo, React Query, React Hook Form, Zod, PHP Pest, Maestro, Scrum/Kanban e code review.</sub>
 
 ---
 
